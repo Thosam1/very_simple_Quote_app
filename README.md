@@ -4,13 +4,9 @@ episode 17... lists of data
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Very simple app, 3 quotes and you can delete each by clicking on the delete button.
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://user-images.githubusercontent.com/63594070/128902516-746c29d1-41a0-4980-9ea8-16a96c1c499b.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![image](https://user-images.githubusercontent.com/63594070/128902541-ae1ac4bd-a297-47f9-ae3e-1ec0bb3f0b38.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
