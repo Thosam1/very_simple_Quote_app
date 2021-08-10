@@ -1,6 +1,6 @@
 # quotes
 
-episode 17... lists of data
+Following TheNetNinja (episode 17) :
 
 ## Getting Started
 
