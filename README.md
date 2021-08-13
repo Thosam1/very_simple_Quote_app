@@ -12,5 +12,5 @@ Very simple app, 3 quotes and you can delete each by clicking on the delete butt
 
 
 
-### made during winter break january 2021
+### made during winter break december 2021
 
